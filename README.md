@@ -39,7 +39,7 @@ Feel free to explore the projects in this repository and use them as a learning 
 
 ### Timer
 - Directory: 'Timer'
-- Description: TimerZen is a simple countdown timer application created using Python and tkinter. It allows users to set a specific time duration and counts down to zero, providing a visual and audible notification when the time is up store them along with the corresponding website and email/username, view saved passwords, and
+- Description: TimerZen is a simple countdown timer application created using Python and tkinter. It allows users to set a specific time duration and counts down to zero, providing a visual and audible notification when the time is up store them along with the corresponding website and email/username, view saved passwords, and update
 
 ### MyPass
 - Directory: 'MyPass'
