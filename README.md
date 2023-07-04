@@ -43,6 +43,7 @@ Feel free to explore the projects in this repository and use them as a learning 
 
 ### MyPass
 - Directory: 'MyPass'
+- Description: MyPass is a simple password manager built using Python and the Tkinter library.
 ## Getting Started
 
 To get started with this repository, follow these steps:
