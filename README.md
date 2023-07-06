@@ -36,6 +36,10 @@ Feel free to explore the projects in this repository and use them as a learning 
 - Directory: `rock_paper_scissors_game`
 - Description: The rock-paper-scissors game is a classic hand game played between two players. This project implements the rock-paper-scissors game in Python, allowing you to play against the computer. Check out the project's README file for instructions on playing the game.
 
+
+### Timer
+- Directory: 'Timer'
+- Description: TimerZen is a simple countdown timer application created using Python and tkinter. It allows users to set a specific time duration and counts down to zero, providing a visual and audible notification when the time is up
 ## Getting Started
 
 To get started with this repository, follow these steps:
