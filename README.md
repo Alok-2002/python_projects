@@ -104,4 +104,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 A big thank you to all the contributors who have helped build and improve the projects in this repository.
 
-If you have any questions or suggestions, feel free to [open an issue](https://github.com/alok-2002/python_projects/issues) on the repository. Happy coding!
+If you have any questions or suggestions, feel free to [Open An Issue](https://github.com/alok-2002/python_projects/issues) on the repository. Happy coding!
